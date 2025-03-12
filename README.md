@@ -1,3 +1,5 @@
+![Arquitetura do Pipeline](https://raw.githubusercontent.com/devrafael26/Pipeline-de-Dados-Machine-Learning/main/Arquitetura%20do%20Pipeline%20de%20dados%20-%20GCP.png)
+
 ### Descrição
 Pipeline de Dados para análise de ações e aplicação de Machine Learning, com o objetivo de prever o preço de fechamento das ações, com atualização diária. 
 
